@@ -1,0 +1,13 @@
+a{
+    margin:  0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #fafafa;
+    font: 15px sans-serif;
+    /* para suavizar os efeitos vizuais não suportados pelo nav*/
+    -webkit-font-smoothing: antialiased !important ;
+}

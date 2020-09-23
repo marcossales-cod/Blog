@@ -1,0 +1,53 @@
+form#loguin{
+    width: 100%;
+    max-width: 680px;
+    margin: 30px auto 0;
+    background: #fff;
+    border: 1px solid  #dddd ;
+    display: flex;
+    flex-direction: column;
+
+}
+
+form#loguin input{
+    margin-bottom: 15px ;
+    height: 40px;
+    border-radius: 4px;
+    border: 1px solid #dddd;
+    padding:  0 20px;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}
+
+form#loguin button{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px 10px;
+    border-radius: 4px;
+    background: #A32FFF;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+form#loguin label{
+    margin-left: 20px;
+    margin-top: 10px;
+    color: #5f5b5bdd;
+
+}
+
+form#loguin a {
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    font-size: 13px;
+    color: #5f5b5bdd;
+    margin-bottom: 5px;
+}
+
+
+

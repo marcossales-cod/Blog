@@ -1,0 +1,29 @@
+body{
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+
+header#main{
+   background: #A32FFF; 
+    height: 74px;
+}
+
+header#main .container{
+
+
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 0  30px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+header#main .container a{
+    color: #ffff;
+    text-decoration: none;
+    font-size: 20px;
+}
